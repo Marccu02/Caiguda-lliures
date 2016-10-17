@@ -1,4 +1,4 @@
-# Caiguda-lliures
+# Caiguda-lliure
 
 color c = color(0);
 float x = 0;
